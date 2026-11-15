@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw ball-by-ball and intermediate datasets (not needed by Streamlit app)
+ball_by_ball.csv
+matches.csv
+players.csv
+playing_eleven.csv
+competitions.csv
+teams.csv
+batters_final.csv
+bowlers_final.csv
+data/
+scripts/
+analysis.py
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

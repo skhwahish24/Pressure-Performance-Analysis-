@@ -1,0 +1,11 @@
+rank,player_id,player,team,type,pressure_balls,baseline_balls,ipl_balls,t20i_balls,pressure_economy,baseline_economy,league_expected_economy,wickets,pressure_rating,qualified_thresholds,thresholds_in_top10,avg_rank
+1,32862,Allah Ghazanfar,Afghanistan,Spin,266,195,233,228,7.36,9.57,8.84,18,118.3,3/3,3/3,1.67
+2,34485,Sufiyan Muqeem,Pakistan,Spin,299,219,0,518,6.45,5.7,8.57,21,113.58,3/3,3/3,2.67
+3,2490,Mohammad Nawaz,Pakistan,Spin,534,470,0,1004,6.98,7.36,8.41,38,112.34,3/3,3/3,3.33
+4,278,Tim Southee,New Zealand,Pace,422,404,246,580,8.12,8.59,8.98,33,110.65,3/3,3/3,7.0
+5,830,Josh Hazlewood,Australia,Pace,668,808,906,570,8.69,7.95,9.32,54,112.04,3/3,2/3,7.67
+6,5979,Abrar Ahmed,Pakistan,Spin,346,418,0,764,6.7,6.81,8.51,20,109.76,3/3,2/3,8.33
+7,4489,Prasidh Krishna,India,Pace,658,515,987,186,9.13,9.13,9.44,44,108.83,3/3,2/3,10.0
+8,479,Adil Rashid,England,Spin,545,779,42,1282,7.73,8.1,8.53,37,109.1,3/3,2/3,10.67
+9,7690,Saim Ayub,Pakistan,Spin,272,238,0,510,6.94,7.48,8.4,15,107.96,3/3,1/3,10.67
+10,7967,Noor Ahmad,Afghanistan,Spin,761,706,1098,369,8.13,8.01,8.97,44,106.92,3/3,1/3,11.0

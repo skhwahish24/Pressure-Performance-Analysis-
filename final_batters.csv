@@ -1,0 +1,11 @@
+rank,player_id,player,team,pressure_balls,baseline_balls,ipl_balls,t20i_balls,pressure_SR,baseline_SR,league_expected_SR,pressure_rating,qualified_thresholds,thresholds_in_top10,avg_rank
+1,50284,Vaibhav Sooryavanshi,India,251,425,449,227,243.28,210.39,148.23,139.27,2/3,2/2,1.0
+2,768,Reeza Hendricks,South Africa,389,446,0,835,170.15,125.83,133.81,128.25,3/3,3/3,2.0
+3,6396,Tim David,Australia,795,431,647,579,191.71,151.29,155.9,127.7,3/3,3/3,4.33
+4,3647,Shreyas Iyer,India,746,1119,1177,688,175.98,138.25,150.74,124.88,3/3,3/3,5.0
+5,4391,Liam Livingstone,England,490,504,598,396,181.22,127.38,149.24,126.4,3/3,3/3,6.0
+6,4853,Glenn Phillips,New Zealand,469,624,76,1017,171.42,132.49,143.05,125.64,3/3,3/3,6.33
+7,4007,Ryan Rickelton,South Africa,319,537,497,359,176.54,146.22,143.14,124.0,3/3,3/3,7.0
+8,37052,Naman Dhir,Mumbai Indians,296,293,433,156,187.8,149.64,155.79,125.16,3/3,2/3,8.33
+9,2921,Fakhar Zaman,Pakistan,329,534,0,863,158.0,112.22,134.79,123.98,2/3,2/2,10.0
+10,838,Glenn Maxwell,Australia,428,530,488,470,178.27,146.98,146.6,124.4,3/3,2/3,11.67
